@@ -34,7 +34,7 @@ To install and run this project locally, follow these steps:
      ```
 
 3. **Download the dataset:**
-   Download the Consumer Reviews of Amazon Products dataset named `amazon_product_reviews.csv` (Source:https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products, "1429_1.csv")
+   Download the Consumer Reviews of Amazon Products dataset named `amazon_product_reviews.csv` (Source: https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products, "1429_1.csv")
 
 ## Usage
 
